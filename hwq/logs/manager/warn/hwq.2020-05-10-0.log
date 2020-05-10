@@ -1,0 +1,1 @@
+2020-05-10 22:53:53.740 default [main] WARN  o.t.templatemode.TemplateMode - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.

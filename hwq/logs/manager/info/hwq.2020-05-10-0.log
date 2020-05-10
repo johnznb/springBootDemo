@@ -1,0 +1,13 @@
+2020-05-10 22:53:50.062 default [main] INFO  com.example.hwq.HwqApplication - Starting HwqApplication on DESKTOP-NT4VDQV with PID 12992 (E:\springBootDemo\hwq\target\classes started by Administrator in E:\springBootDemo\hwq)
+2020-05-10 22:53:50.084 default [main] INFO  com.example.hwq.HwqApplication - No active profile set, falling back to default profiles: default
+2020-05-10 22:53:52.561 default [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9090 (http)
+2020-05-10 22:53:52.592 default [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2020-05-10 22:53:52.595 default [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-05-10 22:53:52.596 default [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-05-10 22:53:52.928 default [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-05-10 22:53:52.929 default [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2649 ms
+2020-05-10 22:53:53.386 default [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-10 22:53:53.534 default [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-05-10 22:53:54.202 default [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9090"]
+2020-05-10 22:53:54.266 default [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9090 (http) with context path ''
+2020-05-10 22:53:54.273 default [main] INFO  com.example.hwq.HwqApplication - Started HwqApplication in 6.937 seconds (JVM running for 17.589)
