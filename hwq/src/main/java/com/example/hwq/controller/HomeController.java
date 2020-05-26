@@ -60,9 +60,9 @@ public class HomeController {
     }
 
 
-    @RequestMapping("/index")
+    @RequestMapping("/home")
     public String hello(){
-        System.out.printf("hh");
+        System.out.printf("home");
         return "index";
     }
 

@@ -1,0 +1,15 @@
+2020-05-26 21:36:45.082 default [main] INFO  com.example.hwq.HwqApplication - Starting HwqApplication on DESKTOP-NT4VDQV with PID 7592 (E:\springBootDemo\hwq\target\classes started by Administrator in E:\springBootDemo\hwq)
+2020-05-26 21:36:45.103 default [main] INFO  com.example.hwq.HwqApplication - No active profile set, falling back to default profiles: default
+2020-05-26 21:36:50.448 default [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9090 (http)
+2020-05-26 21:36:50.554 default [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9090"]
+2020-05-26 21:36:50.555 default [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-05-26 21:36:50.556 default [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-05-26 21:36:51.223 default [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-05-26 21:36:51.223 default [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5755 ms
+2020-05-26 21:36:51.614 default [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-26 21:36:51.748 default [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-05-26 21:36:52.092 default [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-26 21:36:52.097 default [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2020-05-26 21:36:52.250 default [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.

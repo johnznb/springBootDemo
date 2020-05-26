@@ -8,6 +8,7 @@ class HwqApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
